@@ -1,0 +1,1 @@
+Ein einfaches terminal programm, welches erst nach der Anzahl der Einträge fragt, und dann nach den Einträge bzw. den Daten fragt. Dann sollen die Daten jedes Wochentages einzeln gespeichert werden und daraufhin wird die maximale Auslastung an Bällen berechnet.
